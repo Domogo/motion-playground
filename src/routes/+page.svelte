@@ -5,6 +5,7 @@
     class="flex flex-col gap-4 p-2 text-lime-600 underline hover:text-lime-400"
   >
     <a href="/box">Box Animation</a>
-    <a href="/loading-screen">Loading Screen Animation</a>
+    <a href="/loading-screen">Loading Screen</a>
+    <a href="/svg-path-drawing">SVG Path Drawing</a>
   </div>
 </div>
