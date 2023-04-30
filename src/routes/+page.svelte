@@ -7,5 +7,6 @@
     <a href="/box">Box Animation</a>
     <a href="/loading-screen">Loading Screen</a>
     <a href="/svg-path-drawing">SVG Path Drawing</a>
+    <a href="/animate-text">Animate Text</a>
   </div>
 </div>

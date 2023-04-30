@@ -71,9 +71,6 @@
       />
     </g>
   </svg>
-
-  <script src="src/index.js">
-  </script>
 </body>
 
 <style>
