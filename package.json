@@ -23,6 +23,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"flubber": "^0.4.2",
 		"motion": "^10.15.5"
 	}
 }
