@@ -10,5 +10,6 @@
     <a href="/animate-text">Animate Text</a>
     <a href="/morph-svg">Morph SVG</a>
     <a href="/page-progress-bar">Page Progress Bar animation</a>
+    <a href="/element-progress-bar">Element Progress Bar animation</a>
   </div>
 </div>
