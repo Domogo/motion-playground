@@ -12,5 +12,6 @@
     <a href="/page-progress-bar">Page Progress Bar animation</a>
     <a href="/element-progress-bar">Element Progress Bar animation</a>
     <a href="/parallax-scroll-snap">Parallax Scroll Snap</a>
+    <a href="/fade-exit-enter">Fade Exit Enter</a>
   </div>
 </div>
